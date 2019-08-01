@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author knowledgeattic
+ * @author JESUS GARCIA
  */
 public class panel extends javax.swing.JFrame {
 
@@ -135,8 +135,8 @@ public class panel extends javax.swing.JFrame {
         
         Session sesion = Session.getDefaultInstance(propiedad);
         
-        String correoEnvia = "telesecundariasantarosa01@gmail.com";
-        String contrasena = "20DTV0817B";
+        String correoEnvia = "TU CORREO";
+        String contrasena = "CONTRASEÑA DE TU CUENTA";
         String destinatario = txtRecibe.getText();
         String asunto = txtAsunto.getText();
         String mensaje = txtMensaje.getText();
